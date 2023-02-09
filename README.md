@@ -1,1 +1,1 @@
-# aac_property_manager
+Migration from the Akamai as Code Template Repo.
